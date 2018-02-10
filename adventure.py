@@ -1,4 +1,8 @@
-'''Adventure game by INSERTYOURNAMEHERE.
+'''Group project
+
+With Merlin
+
+Adventure game by INSERTYOURNAMEHERE.
 
 INSERTDESCRIPTIONHERE
 
