@@ -1,6 +1,7 @@
 '''Group project
 
 With Merlin
+and Steve too
 
 Adventure game by INSERTYOURNAMEHERE.
 
