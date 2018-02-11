@@ -1,0 +1,20 @@
+#image: python3
+
+stages:
+  - test
+  - build
+  - deploy
+
+runtests:
+  stage: test
+  script: "python test-adventure.py"
+
+buildpackage:
+  stage: build
+  script: "tar -zcf adventure.tar.gz adventure.py test-adventure.py"
+
+deployserver:
+  stage: deploy
+  script: "echo 'Deploying to nowhere.'"
+  only:
+    - master
