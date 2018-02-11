@@ -2,7 +2,7 @@
 
 With Merlin
 
-Adventure game by INSERTYOURNAMEHERE.
+Adventure game by krystal.
 
 INSERTDESCRIPTIONHERE
 
