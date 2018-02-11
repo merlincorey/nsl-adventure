@@ -3,7 +3,7 @@
 With Merlin
 and Steve too
 
-Adventure game by INSERTYOURNAMEHERE.
+Adventure game by krystal.
 
 INSERTDESCRIPTIONHERE
 
